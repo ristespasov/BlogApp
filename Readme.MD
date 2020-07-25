@@ -9,6 +9,7 @@ Users can read posts even if they are not registered or logged in.
 ## Technologies & Tools
 
 - Django (Python)
+- SQL
 - Bootstrap 4.5
 - PyCharm
 

@@ -32,5 +32,5 @@ Users can read posts even if they are not registered or logged in.
 - Profile<br/> 
 ![](git-images/4.PNG)
 
-- Show posts when user selected
-![](git-images/4.PNG)
+- Show all posts of user when selected
+![](git-images/5.PNG)

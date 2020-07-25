@@ -20,8 +20,6 @@ Users can read posts even if they are not registered or logged in.
 
 ## Some of the views
 
-## Views
-
 - Homepage<br/>
 ![](git-images/1.PNG)
 
